@@ -1,0 +1,22 @@
+{
+  "name": "jest-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Belan-Mihail/jest-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Belan-Mihail/jest-2/issues"
+  },
+  "homepage": "https://github.com/Belan-Mihail/jest-2#readme",
+  "devDependencies": {
+    "jest": "^29.6.2"
+  }
+}
